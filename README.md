@@ -1,2 +1,2 @@
-# deep-learning-notebooks
-Deep learning notebooks with reference implementation of architectures
+# InceptionV4 and ResNet
+Analyzing Covid images and data-set using Resnet/Inception models
